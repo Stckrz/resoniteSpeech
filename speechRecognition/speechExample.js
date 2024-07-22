@@ -26,7 +26,10 @@ const keywords = [
 	"you're grounded",
 	"you're ungrounded",
 	"them",
-	"that person"
+	"that person",
+	"where's my hat",
+	"unpack",
+	"hat vision"
 ];
 
 
