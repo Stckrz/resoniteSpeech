@@ -29,7 +29,9 @@ const keywords = [
 	"that person",
 	"where's my hat",
 	"unpack",
-	"hat vision"
+	"hat vision",
+	"follow",
+	"unfollow"
 ];
 
 
